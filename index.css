@@ -1,0 +1,42 @@
+#external {
+	color: yellow;
+}
+
+* {
+	font-family: "Verdana";
+	font-size: 20px;
+}
+
+h1 {
+	font-size: 3rem;
+}
+
+h2 {
+	text-transform: uppercase;
+}
+
+.languages_tobelearned > li {
+	background-color: #aed19d;
+}
+
+li[spellcheck] {
+	border: 1px solid rgb(157, 176, 209);
+}
+
+img + ul {
+	list-style-type: square;
+}
+
+section img {
+	width: 500px;
+	border-radius: 300px;
+}
+
+section > ul > li {
+	letter-spacing: 10px;
+}
+
+h4 ~ p {
+	text-align: center;
+}
+
